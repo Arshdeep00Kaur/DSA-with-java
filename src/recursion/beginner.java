@@ -6,9 +6,10 @@ public class beginner {
         printNumbers(5);
     }
     public static void printNumbers(int n) {
-        if(n == 6) {
+        if(n == 5) {
             return;
         }
+        /// //////hbyubunhuhiouj
         System.out.println(n);
         printNumbers(n+1);
     }
